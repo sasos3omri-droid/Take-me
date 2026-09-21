@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Take Me",
+    "slug": "take-me",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.takeme.voice"
+    },
+    "android": {
+      "package": "com.takeme.voice"
+    }
+  }
+}
